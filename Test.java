@@ -5,6 +5,7 @@
 //Salve a tutti by Antonio
 //Prova pseudo 2
 //Modifica da Raffaele
+// Uè bonasè
 public class Avvio {
     public static void main(String[] args) {
         System.out.print("Ciao Mondo");            
