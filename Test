@@ -1,3 +1,10 @@
 //prova pseudocodice
 //Modifica da Rosa
 
+public class Avvio {
+
+	public static void main(String[] args) {
+	}
+}
+
+
