@@ -7,7 +7,7 @@
 //Modifica da Raffaele
 public class Avvio {
     public static void main(String[] args) {
-        System.out.print("Hello world");            
+        System.out.print("Ciao Mondo");            
     }
 }
 
